@@ -9,4 +9,4 @@
 2. weixin/src/main/java/com/jayshawn/weixin/translate/TransApi.java -> APP_ID SECURITY_KEY
 3. weixin/src/main/java/com/jayshawn/weixin/robot/RobotApi.java -> APIkey
 
-#感谢百度, 图灵机器人
+##### 感谢 百度, 图灵机器人
