@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/jayshawn/weixin/bean/AccessToken.java=UTF-8
+encoding//src/main/java/com/jayshawn/weixin/translate/TransApi.java=UTF-8
+encoding//src/main/java/com/jayshawn/weixin/util/CheckUtil.java=UTF-8
+encoding//src/main/java/com/jayshawn/weixin/util/MessageUtil.java=UTF-8
+encoding//src/test/java/com/jayshawn/weixin/test/TestAll.java=UTF-8
